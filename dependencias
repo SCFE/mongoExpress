@@ -1,0 +1,14 @@
+Dependencias
+---------
+express
+express-sesion
+cookie-parser
+connect-flashh
+ejs
+bcrypt-nodejs
+body-parser
+mongoose
+morgan
+passport-local
+nodemon
+
